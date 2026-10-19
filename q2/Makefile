@@ -1,0 +1,18 @@
+UPROGS=\
+	_cat\
+	_echo\
+	_forktest\
+	_grep\
+	_init\
+	_kill\
+	_ln\
+	_ls\
+	_mkdir\
+	_rm\
+	_sh\
+	_stressfs\
+	_usertests\
+	_wc\
+	_zombie\
+	_vatest\
+	_memtest\
